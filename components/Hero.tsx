@@ -73,7 +73,7 @@ const Hero: React.FC = () => {
           <div className="flex-shrink-0 relative group">
             <div className="relative w-64 h-64 md:w-80 md:h-80 p-1.5 rounded-full bg-gradient-to-br from-sky-400 via-sky-500 to-sky-600 shadow-xl animate-float">
               <div className="w-full h-full rounded-full overflow-hidden bg-slate-200 dark:bg-slate-800 border-4 border-white dark:border-slate-900">
-                <img src="/public/vas.png" alt="Vasan Lennin" className="w-full h-full object-cover" />
+                <img src="/vas.png" alt="Vasan Lennin" className="w-full h-full object-cover" />
               </div>
             </div>
             {/* Floating tech badges around the image */}
