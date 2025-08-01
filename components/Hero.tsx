@@ -61,7 +61,7 @@ const Hero: React.FC = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                 </svg>
               </a>
-              <a href="https://drive.google.com/file/d/1blvsGVfH830F3VOf8Kh0NDpz3My1_4Pu/view?usp=sharing" download
+              <a href="https://drive.google.com/uc?export=download&id=1blvsGVfH830F3VOf8Kh0NDpz3My1_4Pu" target="_blank" rel="noopener noreferrer"
                  className="inline-flex items-center justify-center bg-white dark:bg-slate-800 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 font-medium rounded-md px-8 py-3 text-lg transition-all">
                 <DownloadIcon className="w-5 h-5 mr-2"/>
                 Download CV
@@ -73,7 +73,7 @@ const Hero: React.FC = () => {
           <div className="flex-shrink-0 relative group">
             <div className="relative w-64 h-64 md:w-80 md:h-80 p-1.5 rounded-full bg-gradient-to-br from-sky-400 via-sky-500 to-sky-600 shadow-xl animate-float">
               <div className="w-full h-full rounded-full overflow-hidden bg-slate-200 dark:bg-slate-800 border-4 border-white dark:border-slate-900">
-                <img src="/vas.png" alt="Vasan Lennin" className="w-full h-full object-cover" />
+                <img src="/public/vas.png" alt="Vasan Lennin" className="w-full h-full object-cover" />
               </div>
             </div>
             {/* Floating tech badges around the image */}
