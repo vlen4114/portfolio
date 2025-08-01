@@ -13,7 +13,7 @@ export const EXPERIENCE_DATA = [
     type: 'internship',
     duration: 'Aug 2024 - Nov 2024',
     description: 'Developed a complete Employee Onboarding System on the Salesforce platform as part of a 12-week intensive program.',
-    logo: '/public/logos/techforce-logo.png'
+    logo: '/logos/techforce-logo.png'
   },
   {
     company: 'IDS e Solutions Pvt Ltd',
@@ -26,7 +26,7 @@ export const EXPERIENCE_DATA = [
       'Automated critical reporting workflows',
       'Integrated automated mailing system for branch operations'
     ],
-    logo: '/public/logos/ids-logo.png'
+    logo: '/logos/ids-logo.png'
   },
   {
     company: 'Intel Corporation',
@@ -39,7 +39,7 @@ export const EXPERIENCE_DATA = [
       'Fine-tuned Llama 2 7b achieving 92% prediction accuracy',
       'Partnered with cross-functional teams to translate findings into recommendations'
     ],
-    logo: '/public/logos/intel-logo.png' // Add actual path
+    logo: '/logos/intel-logo.png' // Add actual path
   },
 ];
 
@@ -48,7 +48,7 @@ export const PROJECTS_DATA = [
     title: 'Cloud Native Monitoring Dashboard',
     type: 'DevOps',
     description: 'Real-time system monitoring dashboard with alert triggers for critical states',
-    image: '/public/projects/sys-dash.png',
+    image: '/projects/sys-dash.png',
     tags: ['Flask', 'AWS EKS', 'Docker', 'Kubernetes', 'Plotly'],
     metrics: [
       'Real-time CPU/memory/disk monitoring',
@@ -61,7 +61,7 @@ export const PROJECTS_DATA = [
     title: 'Samvidhan AI - Legal Chatbot',
     type: 'AI/ML',
     description: 'NLP-powered chatbot for automating legal document drafting',
-    image: '/public/projects/samvidhan.png',
+    image: '/projects/samvidhan.png',
     tags: ['Python', 'NLP', 'LLMs', 'Legal Tech'],
     metrics: [
       'Automated contract generation',
@@ -74,7 +74,7 @@ export const PROJECTS_DATA = [
     title: 'Human-Machine Interface for SRM AI Lab',
     type: 'Web Development',
     description: 'Interactive dashboard for real-time sensor data visualization',
-    image: '/public/projects/rasp.jpeg',
+    image: '/projects/rasp.jpeg',
     tags: ['Next.js', 'Firebase', 'IoT', 'Raspberry Pi'],
     metrics: [
       'Real-time visualization of sensor data',
@@ -88,7 +88,7 @@ export const PROJECTS_DATA = [
     title: 'Dark Patterns Recognizer',
     type: 'Browser Extension',
     description: 'ML-powered detection of deceptive design in e-commerce',
-    image: '/public/projects/dp.png',
+    image: '/projects/dp.png',
     tags: ['Machine Learning', 'JavaScript', 'Browser API'],
     metrics: [
       '89% accuracy in pattern detection',

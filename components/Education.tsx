@@ -9,7 +9,7 @@ const EDUCATION_DATA = [
     duration: 'Expected May 2026',
     grade: 'CGPA: 9.61',
     description: 'Specializing in Artificial Intelligence and Machine Learning. Coursework includes Data Structures, Algorithms, Machine Learning, Deep Learning, and Cloud Computing.',
-    logo: '/public/logos/srm.png',
+    logo: '/logos/srm.png',
     website: 'https://www.srmist.edu.in/'
   },
   {
@@ -19,7 +19,7 @@ const EDUCATION_DATA = [
     duration: 'July 2022',
     grade: 'Percentage: 86.00%',
     description: 'Focus on Physics, Chemistry, Mathematics with Computer Science. Active participant in science fairs and coding competitions.',
-    logo: '/public/logos/psbb.png',
+    logo: '/logos/psbb.png',
     website: 'https://www.psbbmillenniumschool.org/'
   },
   {
@@ -29,7 +29,7 @@ const EDUCATION_DATA = [
     duration: 'July 2020',
     grade: 'Percentage: 90.20%',
     description: 'Science, Standard Mathematics, Social Science, English and Tamil. NCC Cadet.',
-    logo: '/public/logos/psbb.png',
+    logo: '/logos/psbb.png',
     website: 'https://www.psbbmillenniumschool.org/'
   }
 ];
